@@ -33,11 +33,12 @@ I'm Wei Hao Long (尉昊龙), a frontend developer and HCI explorer. Click [here
 </p>
 
 #
-<p align = "center">
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=LucyLing24&theme=cotton-candy&radius=64">
-  <br />
-  <img src = "https://komarev.com/ghpvc/?username=LucyLing24&label=PROFILE+VIEWS">
-</p>
+<div align="center">
+	<br>
+		<img src="good-times.svg" width="400px">
+	<br>
+</div>
+
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
