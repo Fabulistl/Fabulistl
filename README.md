@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm Wei Hao Long (尉昊龙), a frontend developer and HCI explorer. Click [here](https://ngclh.com/) to visit my website.
 - 🦾 TypeScript / JavaScript / React / Python / Java / C++ / Unity / Unreal / WebGL
 - 📨 Email me at: [renjianshigewhl@gmail.com](mailto:renjianshigewhl@gmail.com)
-- 🐾 Find me at: LinkedIn: **[Lucy Ling](https://www.linkedin.com/in/haolong-wei-869953144/)** / Zhihu: **[凝浓](https://www.zhihu.com/people/linglong24)**
+- 🐾 Find me at: LinkedIn: **[Wei Hao Long](https://www.linkedin.com/in/haolong-wei-869953144/)** / Zhihu: **[清醒](https://www.zhihu.com/people/xiang-nian-ni-36-89)**
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
