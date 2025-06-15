@@ -33,14 +33,6 @@ I'm Wei Hao Long (尉昊龙), a frontend developer and HCI explorer. Click [here
 </p>
 
 #
-
-<p align = "center">
-  <img src = "https://streak-stats.demolab.com?user=LucyLing24&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
-  <img src = "https://github-readme-stats.vercel.app/api?username=LucyLing24&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucyLing24&layout=compact&line_height=20&theme=dracula&border_radius=20">
-</p>
-
-
 <p align = "center">
   <img src = "https://github-readme-activity-graph.vercel.app/graph?username=LucyLing24&theme=cotton-candy&radius=64">
   <br />
